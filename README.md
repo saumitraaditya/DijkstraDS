@@ -1,6 +1,6 @@
-# Performance analysis of Dijkstras algorithm using array based priority queue and Fibonacci heap  
+# Performance analysis of Dijikstras algorithm using array based priority queue and Fibonacci heap  
 
-## Performance analysis of Dijkstras algorithm using arrays and Fibonacci heap  
+## Performance analysis of Dijikstras algorithm using arrays and Fibonacci heap  
 **Compiling**   
 javac -d out -sourcepath dijkstraa dijkstraa/dijikstra.java  
 Where out is a directory which will house the compiled class files, dijkstraa is is the directory that contain all the java files and dijikstra.java is the main program of the project. Make sure to create the out directory before firing this command using mkdir out.  
